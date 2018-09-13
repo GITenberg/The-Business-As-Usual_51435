@@ -1,0 +1,28 @@
+_repo: The-Business-As-Usual_51435
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sharkey, Jack
+    alias: Sharkey, John Michael
+    birthdate: 1931
+    deathdate: 1992
+    gutenberg_agent_id: '32269'
+    url: http://www.gutenberg.org/2009/agents/32269
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Cold War -- Fiction'
+- GITenberg
+title: The Business, As Usual
+url: http://www.gutenberg.org/ebooks/51435
